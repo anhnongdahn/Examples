@@ -9,7 +9,7 @@ namespace ClassLibrary1
     public class Alg
     {
         /// <summary>
-        /// Power of ~love~ 2,718281828459...
+        /// Power of ~love~ 2,718281828459..
         /// </summary>
         /// <param name="x"></param>
         /// <param name="y"></param>
